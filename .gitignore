@@ -1,0 +1,22 @@
+﻿# Caches de raspagem e arquivos temporários
+html_cache/
+page.html
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Sistema Operacional e Editores/IDEs
+Thumbs.db
+ehthumbs.db
+.DS_Store
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
